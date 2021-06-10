@@ -24,7 +24,9 @@
 ### 5. Images and corresponding probability that predicted Wrong
 ![(7)](https://user-images.githubusercontent.com/29909344/121538371-b1d1d000-ca3f-11eb-86fe-a32061dda441.png)
 
-
+<br/>
+<br/>
+<br/>
 
 # MODEL 2
 ### 1. Model
@@ -50,7 +52,9 @@
 ### 5. Images and corresponding probability that predicted Wrong
 ![(7)](https://user-images.githubusercontent.com/29909344/121541755-88ff0a00-ca42-11eb-81f2-4b55f34e4660.png)
 
-
+<br/>
+<br/>
+<br/>
 
 # MODEL 3
 ### 1. Model
