@@ -1,11 +1,11 @@
 # Algorithm_01
 
-# MODEL 1
+# **MODEL 1**
 ## 1. Model
 ![(1)](https://user-images.githubusercontent.com/29909344/121538090-78996000-ca3f-11eb-83f3-e9c307a5782d.png)
 ![(2)](https://user-images.githubusercontent.com/29909344/121538131-7f27d780-ca3f-11eb-8121-3868562fe81d.png)
 ![(3)](https://user-images.githubusercontent.com/29909344/121538151-8353f500-ca3f-11eb-8469-32ed026426aa.png)
-<br>
+
 
 ## 2. Training with Training loss
 ### Training Step
