@@ -60,8 +60,7 @@
 
 
 ## 2. Training with Training loss
-### Training Step
-![(4)](https://user-images.githubusercontent.com/29909344/121541834-987e5300-ca42-11eb-853d-a0dd50663476.png)
+![(4)](https://user-images.githubusercontent.com/29909344/121548078-b0a4a100-ca47-11eb-8d86-2247c0a793d1.png)
 
 
 ## 3. Test Accuracy
